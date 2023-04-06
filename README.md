@@ -3,7 +3,8 @@
 ---
 <br/>
 This tutorial demonstrates a simple React JS micro-site using Vite and Experience Kit.
-It was created by following the steps below.
+It was created by following developer instructions given online for using
+the [Vatom Experience Kit](https://developer.vatom.com/wallet/experience-kit/overview).
 
 ```
 NOTE:
@@ -12,11 +13,3 @@ you will have to substitute your own business ID for the `bizIDx123`
 placeholder value that appears in the build script and code.
 
 ```
-
-## Expose Your Brand
-
-## Build A Simple Micro-Site
-
-## Embed Micro-Site in Wallet
-
-## Add Experience Kit Features
