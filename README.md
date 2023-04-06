@@ -1,13 +1,13 @@
 # A Micro-Site to Customize Your Brand Experience
 ### An Experience Kit Tutorial for Embedding a Micro-Site Within A Vatom Wallet
 ---
-<br>
-This tutorial demonstrates a simple React JS micro-site using Vite and Experience Kit.
-It was created by following developer instructions given online for using
-the [Vatom Experience Kit](https://developer.vatom.com/wallet/experience-kit/overview/).
 
 <br>
-<br>
+
+This tutorial demonstrates a simple React JS micro-site using Vite and Experience Kit.
+It was created by following developer instructions given online for using
+the [Vatom Experience Kit](https://developer.vatom.com/wallet/experience-kit/overview/) .
+
 <br>
 
 > ***NOTE:***
